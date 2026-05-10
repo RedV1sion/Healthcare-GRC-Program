@@ -1,3 +1,4 @@
+# BrightCare Medical Group  
 # Mobile Device Policy
 
 ## Document Information
