@@ -1,3 +1,4 @@
+# BrightCare Medical Group  
 # Backup and Recovery Policy
 
 ## Document Information
