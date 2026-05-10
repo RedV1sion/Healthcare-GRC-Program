@@ -56,8 +56,8 @@ Healthcare-GRC-Program/
 │
 ├── risk-assessments/
 │   ├── hipaa-risk-assessment.pdf
-│   ├── risk-register.xlsx
-│   └── third-party-vendor-risk-analysis.pdf
+│   ├── risk-register.md
+│   └── third-party-vendor-risk-analysis.md
 │
 ├── compliance/
 │   ├── hipaa-gap-analysis.md
