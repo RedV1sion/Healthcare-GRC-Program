@@ -296,4 +296,4 @@ All users must acknowledge that they:
 
 | Version | Date | Description | Author |
 |---|---|---|---|
-| 1.0 | January 2025 | Initial Release | Information Security Department |
+| 1.0 | January 2024 | Initial Release | Information Security Department |
