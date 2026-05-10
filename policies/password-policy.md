@@ -1,3 +1,4 @@
+# BrightCare Medical Group  
 # Password Policy
 
 ## Document Information
