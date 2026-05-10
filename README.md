@@ -6,6 +6,10 @@ This project simulates a mid-sized healthcare organization environment and showc
 
 ---
 
+<img width="1536" height="1024" alt="healthcare-network-diagram" src="https://github.com/user-attachments/assets/aa10b3de-c191-463b-8266-88fe2d6ee685" />
+
+---
+
 # Project Overview
 
 BrightCare Medical Group is a simulated healthcare organization operating:
