@@ -1,3 +1,4 @@
+# BrightCare Medical Group  
 # Access Control Policy
 
 ## Document Information
