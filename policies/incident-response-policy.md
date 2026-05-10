@@ -1,3 +1,4 @@
+# BrightCare Medical Group  
 # Incident Response Policy
 
 ## Document Information
